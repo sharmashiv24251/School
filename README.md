@@ -49,7 +49,7 @@ To start the development server:
 npm run dev
 ```
 
-Open `http://localhost:3000` to view the application in the browser.
+Open `http://localhost:5173` to view the application in the browser.
 
 ## Project Structure
 
